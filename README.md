@@ -71,6 +71,5 @@ afdeling|contactpersoon
 Arduino|?Anton, ?Martin
 Dojo|?Dagmar, ?Jan K
 Natuur & Techniek|?Bas, ?Peter
-FLL|Harry
-FTC|Gert-Jan
-Drone|Klaas
+FLL|?Harry
+Drone|?Klaas
