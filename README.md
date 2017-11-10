@@ -1,7 +1,5 @@
 # Science en Hi-Tech dag 2018
 
-![Science en Hi-Tech dag 2018 poster](Poster.png)
-
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
  * Wanneer: zondag 10 juni 2018 12:00-16:00 [deze datum is nog een voorstel]
  * Entree: gratis
@@ -22,12 +20,12 @@ Meer informatie over het programma volgt zsm via onze website www.djog.nl!
 
 afdeling|activiteit
 ---|---
-3D printers|?
+3D printers|?Print een raket
 Arduino|Programmeer een machine
 Dojo|Programmeer een game
-Natuur & Techniek|Meerdere experimenten
-FLL|Bouw een robot
-FTC|Bedien een robot
+Natuur & Techniek|?Meerdere experimenten
+FLL|?Bouw een robot
+FTC|?Bedien een robot
 
 ![Activiteiten begane grond](begane_grond_activiteiten.png)
 
@@ -43,7 +41,7 @@ Dojo|Kantine
 Natuur & Techniek|Lab
 FLL|Papier en textiel
 FTC|Electronica-afdeling
-Drone|?
+Drone|Plein
 
 ![Activiteiten begane grond](begane_grond.png)
 
@@ -61,7 +59,7 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
-Carleen maakt foto's
+[iemand] maakt foto's
 
 ## Contactpersonen
 
