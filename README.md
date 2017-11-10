@@ -4,8 +4,6 @@
  * Wanneer: zondag 10 juni 2018 12:00-16:00 [deze datum is nog een voorstel]
  * Entree: gratis
 
- * [Science en Hi-Tech dag 2017](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
-
 ## Persbericht
 
 Op zondag 10 juni organiseren we de Science & Hi-Techdag bij De Jonge Onderzoekers!
@@ -69,7 +67,12 @@ afdeling|contactpersoon
 ---|---
 3D printers|?Arlette, ?Erik, ?Jan de J.
 Arduino|?Anton, ?Martin
-Dojo|?Dagmar, ?Jan K
+Dojo|Jan K., ?Dagmar, 
 Natuur & Techniek|?Bas, ?Peter
 FLL|?Harry
 Drone|?Klaas
+
+## Vorige jaar
+
+ * [Science en Hi-Tech dag 2017](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
+
