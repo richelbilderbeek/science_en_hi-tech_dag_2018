@@ -26,6 +26,9 @@ Dojo|Programmeer een game
 Natuur & Techniek|?Meerdere experimenten
 FLL|?Bouw een robot
 FTC|?Bedien een robot
+Drone|Demonstratie
+Afstand meter|Afstand meten
+Mensen van de universiteit|?Robot besturen
 
 ![Activiteiten begane grond](begane_grond_activiteiten.png)
 
@@ -35,21 +38,29 @@ FTC|?Bedien een robot
 
 afdeling|locatie
 ---|---
-3D printers|Fijnmetaal lokaal
+3D printers|Houtlokaal
 Arduino|Kantine
 Dojo|Kantine
 Natuur & Techniek|Lab
 FLL|Papier en textiel
 FTC|Electronica-afdeling
 Drone|Plein
+Afstand meten|?
+Mensen van de universiteit|Fijnmetaal lokaal (ook wel 'Aquarium')
 
 ![Activiteiten begane grond](begane_grond.png)
 
 ![Activiteiten boven](boven.png)
 
+## PR
+
+[Het is nog niet besproken wie de PR doet]
+
 ## Entree
 
 Bij de entree komt een receptie, bemand door [iemand].
+
+[Harry regelt de mensen voor de entree, zoals Eddy of Tonnie]
 
 ## Bar
 
@@ -61,16 +72,21 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 [iemand] maakt foto's
 
+[Harry regelt een fotograaf, zoals Sam]
+
 ## Contactpersonen
 
 afdeling|contactpersoon
 ---|---
-3D printers|?Arlette, ?Erik, ?Jan de J.
-Arduino|?Anton, ?Martin
-Dojo|Jan K., ?Dagmar, 
-Natuur & Techniek|?Bas, ?Peter
-FLL|?Harry
-Drone|?Klaas
+3D printers|?Arlette, ?Erik, ?Jan de J. [Richel regelt dit]
+Arduino|?Anton, ?Martin [Richel regelt dit]
+Dojo|Jan K., ?Dagmar,  [Richel regelt dit]
+Natuur & Techniek|?Bas, ?Peter  [Richel regelt dit]
+FLL|?Harry [Harry regelt dit]
+FTC|?Harry [Harry regelt dit]
+Drone|?Klaas [Harry regelt dit]
+Afstand meten|?Geert-Jan [Harry regelt dit]
+Mensen van universiteit|? [Harry regelt dit]
 
 ## Vorige jaar
 
