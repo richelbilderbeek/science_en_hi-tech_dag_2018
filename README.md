@@ -1,7 +1,7 @@
 # Science en Hi-Tech dag 2018
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
- * Wanneer: zondag 10 juni 2018 12:00-16:00 [deze datum is nog een voorstel]
+ * Wanneer: zondag 10 juni 2018 12:00-16:00 :ok:
  * Entree: gratis
 
 ## Persbericht
