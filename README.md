@@ -1,7 +1,7 @@
 # Science en Hi-Tech dag 2018
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
- * Wanneer: zondag 10 juni 2018 12:00-16:00 :ok:
+ * Wanneer: zondag 10 juni 2018 12:00-16:00  :white_check_mark:
  * Entree: gratis
 
 ## Persbericht
@@ -65,7 +65,7 @@ Bij de entree komt een receptie, bemand door [iemand].
 ## Bar
 
 Bar blijft onbemand.
-Ranja staat klaar en is gratis
+Ranja staat klaar en is gratis.
 Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
@@ -78,10 +78,10 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 afdeling|contactpersoon
 ---|---
-3D printers|?Arlette, ?Erik, ?Jan de J. [Richel regelt dit]
-Arduino|?Anton, ?Martin [Richel regelt dit]
-Dojo|Jan K., ?Dagmar,  [Richel regelt dit]
-Natuur & Techniek|?Bas, ?Peter  [Richel regelt dit]
+3D printers|?Arlette, ?Erik, ?Jan de J., ?Martijn [RJCB, status: gemaild om interesse]
+Arduino|?Anko, ?Anton, ?Martin [RJCB, status: gemaild om interesse]
+Dojo|?Dagmar [RJCB, status: gemaild om interesse]
+Natuur & Techniek|?Bas, ?Peter, ?Selinde  [RJCB, status: gemaild om interesse]
 FLL|?Harry [Harry regelt dit]
 FTC|?Harry [Harry regelt dit]
 Drone|?Klaas [Harry regelt dit]
