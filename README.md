@@ -78,10 +78,10 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 afdeling|contactpersoon
 ---|---
-3D printers|?Arlette, ?Erik, ?Jan de J., ?Martijn [RJCB, status: gemaild om interesse]
-Arduino|?Anko, ?Anton, ?Martin [RJCB, status: gemaild om interesse]
+3D printers|?Arlette, ?Erik, ?Jan de J., Martijn :white_check_mark: [RJCB, status: gemaild om interesse]
+Arduino|?Anko, Anton :white_check_mark:, ?Martin [RJCB, status: gemaild om interesse]
 Dojo|?Dagmar [RJCB, status: gemaild om interesse]
-Natuur & Techniek|?Bas, ?Peter, ?Selinde  [RJCB, status: gemaild om interesse]
+Natuur & Techniek|?Bas, Peter :white_check_mark:, ?Selinde  [RJCB, status: gemaild om interesse]
 FLL|?Harry [Harry regelt dit]
 FTC|?Harry [Harry regelt dit]
 Drone|?Klaas [Harry regelt dit]
@@ -91,4 +91,3 @@ Mensen van universiteit|? [Harry regelt dit]
 ## Vorige jaar
 
  * [Science en Hi-Tech dag 2017](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
-
