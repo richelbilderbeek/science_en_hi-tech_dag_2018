@@ -58,9 +58,7 @@ Richel doet de PR, tenzij een vrijwilliger zich aanmeldt.
 
 ## Entree
 
-Bij de entree komt een receptie, bemand door [iemand].
-
-[Richel regelt de mensen voor de entree, zoals Eddy of Tonnie]
+Bij de entree komt een receptie, bemand door ?Carleen [RJCB: gevraagd] and vrijwilligers/kids [RJCB regelt dit].
 
 ## Bar
 
@@ -70,7 +68,7 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
-Sam maakt foto's :white_check_mark:
+Sam (van de FTC) maakt foto's :white_check_mark:
 
 ## Contactpersonen
 
