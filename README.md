@@ -1,7 +1,7 @@
 # Science en Hi-Tech dag 2018
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
- * Wanneer: zondag 10 juni 2018 12:00-16:00  :white_check_mark:
+ * Wanneer: zondag 10 juni 2018 12:00-16:00 :white_check_mark:
  * Entree: gratis
 
 ## Persbericht
@@ -28,7 +28,7 @@ FLL|?Bouw een robot
 FTC|?Bedien een robot
 Drone|Demonstratie
 Afstand meter|Afstand meten
-Mensen van de universiteit|?Robot besturen
+?Marieke|?iets met robots/kunstmatige interlligentie/hersenonderzoek?
 
 ![Activiteiten begane grond](begane_grond_activiteiten.png)
 
@@ -46,7 +46,7 @@ FLL|Papier en textiel
 FTC|Electronica-afdeling
 Drone|Plein
 Afstand meten|?
-Mensen van de universiteit|Fijnmetaal lokaal (ook wel 'Aquarium')
+Marieke|?Fijnmetaal lokaal (ook wel 'Aquarium')
 
 ![Activiteiten begane grond](begane_grond.png)
 
@@ -54,13 +54,13 @@ Mensen van de universiteit|Fijnmetaal lokaal (ook wel 'Aquarium')
 
 ## PR
 
-[Het is nog niet besproken wie de PR doet]
+Richel doet de PR, tenzij een vrijwilliger zich aanmeldt.
 
 ## Entree
 
 Bij de entree komt een receptie, bemand door [iemand].
 
-[Harry regelt de mensen voor de entree, zoals Eddy of Tonnie]
+[Richel regelt de mensen voor de entree, zoals Eddy of Tonnie]
 
 ## Bar
 
@@ -70,9 +70,7 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
-[iemand] maakt foto's
-
-[Harry regelt een fotograaf, zoals Sam]
+Sam maakt foto's :white_check_mark:
 
 ## Contactpersonen
 
@@ -82,9 +80,9 @@ afdeling|contactpersoon
 Arduino|?Anko, Anton :white_check_mark:, ?Martin [RJCB, status: gemaild om interesse]
 Dojo|?Dagmar [RJCB, status: gemaild om interesse]
 Natuur & Techniek|?Bas, Peter :white_check_mark:, ?Selinde  [RJCB, status: gemaild om interesse]
-FLL|?Harry [Harry regelt dit]
+FLL|Harry :white_check_mark:
 FTC|?Harry [Harry regelt dit]
-Drone|?Klaas [Harry regelt dit]
+Drone|?Klaas [RJCB: gemaild om interesse]
 Afstand meten|?Geert-Jan [Harry regelt dit]
 Mensen van universiteit|? [Harry regelt dit]
 
