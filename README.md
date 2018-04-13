@@ -84,7 +84,7 @@ FLL|Harry :white_check_mark:
 FTC|?Harry [Harry regelt dit]
 Drone|?Klaas [RJCB: gemaild om interesse]
 Afstand meten|?Geert-Jan [Harry regelt dit]
-Mensen van universiteit|? [Harry regelt dit]
+?Marieke|? [RJCB: gemaild om interesse]
 
 ## Vorige jaar
 
