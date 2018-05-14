@@ -75,7 +75,7 @@ Sam (van de FTC) maakt foto's :white_check_mark:
 afdeling|contactpersoon
 ---|---
 3D printers|?Arlette, ?Erik, ?Jan de J., Martijn :white_check_mark: [RJCB, status: gemaild om interesse]
-Arduino|?Anko, Anton :white_check_mark:, ?Martin [RJCB, status: gemaild om interesse]
+Arduino|?Anko, Anton :white_check_mark:, ?Martin [RJCB, status: gemaild om interesse]: Leerlingen: Daniel, Youri, 
 Dojo|?Dagmar [RJCB, status: gemaild om interesse]
 Natuur & Techniek|?Bas, Peter :white_check_mark:, ?Selinde  [RJCB, status: gemaild om interesse]
 FLL|Harry :white_check_mark:
