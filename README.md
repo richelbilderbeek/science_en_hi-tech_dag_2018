@@ -1,7 +1,7 @@
 # Science en Hi-Tech dag 2018
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
- * Wanneer: zondag 10 juni 2018 12:00-16:00 :white_check_mark:
+ * Wanneer: zondag 10 juni 2018 12:00-16:00
  * Entree: gratis
 
 ## Persbericht
@@ -20,15 +20,12 @@ Meer informatie over het programma volgt zsm via onze website www.djog.nl!
 
 afdeling|activiteit
 ---|---
-3D printers|?Print een raket
+3D printers|Print een raket
 Arduino|Programmeer een machine
 Dojo|Programmeer een game
-Natuur & Techniek|?Meerdere experimenten
-FLL|?Bouw een robot
-FTC|?Bedien een robot
-Drone|Demonstratie
-Afstand meter|Afstand meten
-?Marieke|?iets met robots/kunstmatige interlligentie/hersenonderzoek?
+Natuur & Techniek|Meerdere experimenten
+FLL|Bouw een robot
+FTC|Bedien een robot
 
 ![Activiteiten begane grond](begane_grond_activiteiten.png)
 
@@ -38,15 +35,12 @@ Afstand meter|Afstand meten
 
 afdeling|locatie
 ---|---
-3D printers|Houtlokaal
+3D printers|Houtlokaal of aquarium
 Arduino|Kantine
 Dojo|Kantine
 Natuur & Techniek|Lab
 FLL|Papier en textiel
 FTC|Electronica-afdeling
-Drone|Plein
-Afstand meten|?
-Marieke|?Fijnmetaal lokaal (ook wel 'Aquarium')
 
 ![Activiteiten begane grond](begane_grond.png)
 
@@ -54,11 +48,11 @@ Marieke|?Fijnmetaal lokaal (ook wel 'Aquarium')
 
 ## PR
 
-Richel doet de PR, tenzij een vrijwilliger zich aanmeldt.
+Carleen doet de PR.
 
 ## Entree
 
-Bij de entree komt een receptie, bemand door ?Carleen [RJCB: gevraagd] and vrijwilligers/kids [RJCB regelt dit].
+Bij de entree komt een receptie, bemand door Carleen and vrijwilligers/kids.
 
 ## Bar
 
@@ -68,21 +62,18 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
-Sam (van de FTC) maakt foto's :white_check_mark:
+Sam (van de FTC) maakt foto's.
 
 ## Contactpersonen
 
 afdeling|contactpersoon
 ---|---
-3D printers|?Arlette, ?Erik, ?Jan de J., Martijn :white_check_mark: [RJCB, status: gemaild om interesse]
-Arduino|?Anko, Anton :white_check_mark:, ?Martin [RJCB, status: gemaild om interesse]: Leerlingen: Daniel, Youri, 
-Dojo|?Dagmar [RJCB, status: gemaild om interesse]
-Natuur & Techniek|?Bas, Peter :white_check_mark:, ?Selinde  [RJCB, status: gemaild om interesse]
-FLL|Harry :white_check_mark:
-FTC|?Harry [Harry regelt dit]
-Drone|?Klaas [RJCB: gemaild om interesse]
-Afstand meten|?Geert-Jan [Harry regelt dit]
-?Marieke|? [RJCB: gemaild om interesse]
+3D printers|Martijn
+Arduino|Anton
+Dojo|Dagmar
+Natuur & Techniek|Peter
+FLL|Harry
+FTC|Harry
 
 ## Vorige jaar
 
