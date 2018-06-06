@@ -41,6 +41,8 @@ Dojo|Kantine
 Natuur & Techniek|Lab
 FLL|Papier en textiel
 FTC|Electronica-afdeling
+Robotica|Robotica
+Biologisch lab|Lab
 
 ![Activiteiten begane grond](begane_grond.png)
 
@@ -74,6 +76,8 @@ Dojo|Dagmar
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Harry
+Robotica|Willeke
+Biologisch lab|Sjef
 
 ## Vorige jaar
 
