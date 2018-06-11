@@ -79,6 +79,12 @@ FTC|Harry
 Robotica|Willeke
 Biologisch lab|Sjef
 
+## Publiciteit
+
+ * [Harener weekblad](https://harenerweekblad.nl/vanplan)
+ * [RTV Noord - Noord en Ommeland](https://www.rtvnoord.nl/nieuws/195075/Dit-weekend-in-Groningen-Molens-robots-en-oudjes-op-pad)
+
 ## Vorige jaar
 
  * [Science en Hi-Tech dag 2017](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
+
